@@ -82,7 +82,10 @@ Seja criativo!
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
 1. Repositório selecionado: https://github.com/langchain-ai/langchain
-2. Gráfico selecionado: ![<IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>](https://github.com/AntonioNvs/exploring-code-evolution/blob/main/loc.png)
+2. Gráfico selecionado:
+
+![<IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>](https://github.com/AntonioNvs/exploring-code-evolution/blob/main/loc.png)
+
 3. Explicação:
 
 De 2022 a 2025 há crescimento contínuo do LOC médio das classes (25 → 100 linhas), seguido de queda em 2026. As funções crescem lentamente e de forma estável (7 → 18 linhas). Funções permanecem pequenas, indicando boa modularização. O aumento das classes sugere maior abstração e maturidade do framework, algo esperado em projetos grandes. O pico em 2025 indica aumento de complexidade estrutural e do acréscimo de novas funcionalidades em massa. A queda em 2026 provavelmente reflete refatoração ou reorganização do código. Ao analisar o repositório do LangChain, nota-se a sua expansão com agents, integrações e novos módulos aumentou o tamanho das classes, em um desenvolvimento rápido para atender demandas do mercado; posteriormente, melhorias de arquitetura reduziram a complexidade média.
